@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "40784116218",
+    "project_id": "zamen-app",
+    "storage_bucket": "zamen-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40784116218:android:890cd5e7ec3c09c8b78c43",
+        "android_client_info": {
+          "package_name": "com.example.flutter_zameen_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwDztYlNTY6Hf5RoyJJVgM7BL0w9J815s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
